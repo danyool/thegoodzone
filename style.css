@@ -14,7 +14,7 @@ summary::-webkit-details-marker {
 }
 
 summary::before {
-    content:'♂♀';
+    content:'♂♀ click to';
     padding-right:0.5em;
 }
 
